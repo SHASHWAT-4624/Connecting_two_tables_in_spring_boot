@@ -72,8 +72,8 @@ It showcases **One-to-Many** and **Many-to-One** relationships, as well as perfo
 - Database connection configured in `application.properties`:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3307/spring_suit?useSSL=false
-spring.datasource.username=root
-spring.datasource.password=12345
+spring.datasource.username=your username
+spring.datasource.password=your password
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
